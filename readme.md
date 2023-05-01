@@ -7,7 +7,7 @@ __此仓库为还未启用的Edgeless-CE-V3 使用的仓库,寻找现有版本�
 * <del>下载 Windows 11 22H2版 系统镜像并挂载</del>
 * <del>[点击我开始下载](https://onemanager-one-virid.vercel.app/main/os/zh-cn_windows_11_business_editions_updated_june_2022_x64_dvd_0b165f6d.iso)</del>
 * <del>[国内加速链接](https://slqwqsoft-my.sharepoint.com/:u:/g/personal/we_slqwqsoft_onmicrosoft_com/EbyQz5YiW6NAp1-XpCYHO7oB4mIxmiZBZ8hJQ98yf-LAsg?e=s5ysPk)</del>
-* <del>克隆本仓库：`https://github.com/slqwqxd/Edgeless-Ce.git`</del>
+* <del>克隆本仓库：`https://github.com/slqwqxd/Edgeless-CE-NEXT.git`</del>
 * <del>运行 `WimBuilder.cmd`，在 `准备` 页面中选择挂载的系统镜像，并选择一个合适的映像版本；在 `工程` 页面中选择 `Edgeless-CE` ，然后在 `构建` 页面中开始构建</del>
 
 ## <del>一键构建脚本</del>
