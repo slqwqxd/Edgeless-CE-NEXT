@@ -1,5 +1,5 @@
 # Edgeless-CE-V3 仓库
-<del>此仓库为 Edgeless-CE-V3 使用的 [Wimbuilder2](https://github.com/slorelee/wimbuilder2) 仓库，你可以使用此仓库的内容自行构建一个使用MPL2.0协议开源版本的 Edgeless-CE</del><br>
+<del>此仓库为 Edgeless-CE-V3 使用的 [Wimbuilder2](https://github.com/slorelee/wimbuilder2) 仓库，你可以使用此仓库的内容自行构建一个使用GPLV3.0协议开源版本的 Edgeless-CE</del><br>
 __此仓库为还未启用的Edgeless-CE-V3 使用的仓库,寻找现有版本的Edgeless-CE-V1/V2请移步[slqwqxd/Edgeless-CE](https://github.com/slqwqxd/Edgeless-CE)__<br>
 **注意:当您使用此库时即代表您同意GPLV3.0协议**
   
