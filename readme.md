@@ -33,3 +33,5 @@ __此仓库为还未启用的Edgeless-CE-V3 使用的仓库,寻找现有版本�
 获取内测码后
 [加入群聊](https://jq.qq.com/?_wv=1027&k=mQLo2rRU)
 或者[提出issue](https://github.com/slqwqxd/Edgeless-CE-NEXT/issues/new/choose),如果您有能力自行解决问题的话，请浏览源代码解决并且[提交Pull requests](https://github.com/slqwqxd/Edgeless-CE-NEXT/pulls)
+
+                                                    2022-2023 Edgeless-CE团队-保留所有权利
